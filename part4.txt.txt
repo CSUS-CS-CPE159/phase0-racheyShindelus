@@ -1,0 +1,9 @@
+part4.txt
+
+SPEDE GDB$ run
+Hello, world!
+Welcome to MyOS!
+The buffer size is 17 bytes
+CPE/CSC 159 for Spring/Fall 2025 will be fun!
+[Inferior 1 (Remote target) exited normally]
+
